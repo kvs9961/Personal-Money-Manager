@@ -1,0 +1,61 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2026-01-01",
+      "time": "17:12:33",
+      "type": "debit",
+      "category": "Fuel",
+      "amount": 220.0,
+      "description": "petrol"
+    },
+    {
+      "id": 2,
+      "date": "2026-01-01",
+      "time": "17:12:33",
+      "type": "debit",
+      "category": "Food",
+      "amount": 420.0,
+      "description": "restaurent"
+    },
+    {
+      "id": 3,
+      "date": "2026-01-01",
+      "time": "17:12:33",
+      "type": "debit",
+      "category": "other",
+      "amount": 20.0,
+      "description": "toy"
+    },
+    {
+      "id": 4,
+      "date": "2026-01-01",
+      "time": "17:12:48",
+      "type": "credit",
+      "category": "Ride Income",
+      "amount": 102.45,
+      "description": "uber"
+    },
+    {
+      "id": 5,
+      "date": "2026-01-02",
+      "time": "17:19:28",
+      "type": "debit",
+      "category": "Fuel",
+      "amount": 220.0,
+      "description": "petrol"
+    },
+    {
+      "id": 6,
+      "date": "2026-01-02",
+      "time": "17:19:42",
+      "type": "credit",
+      "category": "Ride Income",
+      "amount": 223.65,
+      "description": "uber"
+    }
+  ],
+  "opening_balance": {
+    "2026-01": 14040.64
+  }
+}
